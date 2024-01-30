@@ -4,16 +4,16 @@ Cloning the github --
 
 git clone https://github.com/ths20003/CSE3150.git
 
-Compile firs:
+Compile first:
 
 #1 Enter the directory by running
 
-cd CSE3150/Lab1_Prefix_Sum
+cd CSE3150/lab01
 
-#2 Compile with this command (a can be changed to a different name)
+#2 Compile with this command --
 
-g++ test.cpp prefix_sum.cpp -o a
+g++ unit_test_prefix_sum.cpp prefix_sum.cpp -o a
 
-#3 Run the program & test cases
+#3 Run the program & test cases -- 
 
 ./a
