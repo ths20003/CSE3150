@@ -8,12 +8,12 @@ Compile first:
 
 1. Enter the directory by running
 
-cd CSE3150/lab01
+``cd CSE3150/lab01``
 
 2. Compile with this command --
 
-g++ unit_test_prefix_sum.cpp prefix_sum.cpp -o a
+``g++ unit_test_prefix_sum.cpp prefix_sum.cpp -o a``
 
 Finally Run the program & test cases -- 
 
-./a
+``./a``
