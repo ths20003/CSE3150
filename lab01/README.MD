@@ -6,14 +6,14 @@ git clone https://github.com/ths20003/CSE3150.git
 
 Compile first:
 
-#1 Enter the directory by running
+1. Enter the directory by running
 
 cd CSE3150/lab01
 
-#2 Compile with this command --
+2. Compile with this command --
 
 g++ unit_test_prefix_sum.cpp prefix_sum.cpp -o a
 
-#3 Run the program & test cases -- 
+Finally Run the program & test cases -- 
 
 ./a
