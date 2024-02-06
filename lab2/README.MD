@@ -28,5 +28,5 @@ g++ main_parenthesis.cpp fisher_yates.cpp
 g++ unit_test_fisher_yates.cpp main_parenthesis.cpp
 ```
 ```shell
-./a
+./a.out
 ```
