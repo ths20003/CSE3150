@@ -8,7 +8,7 @@ git clone https://github.com/ths20003/CSE3150.git
 **Change Directory**
 
 ```shell
-cd CSE3150/Lab2
+cd CSE3150/Lab3
 ```
 **Executing the project:**
 
