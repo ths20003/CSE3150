@@ -1,4 +1,4 @@
-# CSE 3150 Lab Week 2: well-balanced lists
+# CSE 3150 Lab Week 3: Pointer Jumping
 
 **Clone the Repository**
 Open your command prompt or terminal and execute the following command to clone the repository:
