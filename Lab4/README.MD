@@ -1,6 +1,6 @@
 # Lab 4: Well Balanced Algorithm
 # 1 - Initialization
-## 1.1 - Clone the repository
+## 1.a - Clone the repository
 Run the following command to clone the repository:
 `git clone https://github.com/ths20003/cse3150.git`
 `cd cse3150/lab4`
