@@ -6,7 +6,7 @@ Change directory to e08
           cd CSE3150/e008
 Compile
 
-        g++ -o unittest unittest.cpp
+       g++ -o unittest unittest.cpp perfect_number.cpp
 execute
 
           ./unittest
